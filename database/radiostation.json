@@ -1,0 +1,59 @@
+{
+  "stations": [
+    {
+      "id": 1,
+      "name": "RaeiZers 101 FM",
+      "stream_url": "https://raeizers-101fm.glitch.me/stream"
+    },
+    {
+      "id": 2,
+      "name": "uhuy",
+      "stream_url": "hahahaha"
+    },
+    {
+      "id": 3,
+      "name": "I Love Radio",
+      "stream_url": "https://streams.ilovemusic.de/iloveradio3.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Kpop Hits",
+      "stream_url": "http://stream.laut.fm/kpophits"
+    },
+    {
+      "id": 5,
+      "name": "Arabian Radio",
+      "stream_url": "http://stream.laut.fm/balkan-orient-deluxe"
+    },
+    {
+      "id": 6,
+      "name": "Rock Radio",
+      "stream_url": "http://stream.laut.fm/harfe"
+    },
+    {
+      "id": 7,
+      "name": "Dance Radio",
+      "stream_url": "http://stream.laut.fm/happyfmdance"
+    },
+    {
+      "id": 8,
+      "name": "Bass Radio",
+      "stream_url": "http://stream.laut.fm/bass-base"
+    },
+    {
+      "id": 9,
+      "name": "Jazz Radio",
+      "stream_url": "http://stream.laut.fm/kramladen"
+    },
+    {
+      "id": 10,
+      "name": "Pop Radio",
+      "stream_url": "http://stream.laut.fm/radio-64"
+    },
+    {
+      "id": 11,
+      "name": "RaeiZers Radio",
+      "stream_url": "https://kucinglompat.com/radio.mp3"
+    }
+  ]
+}
